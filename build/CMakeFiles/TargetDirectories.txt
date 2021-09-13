@@ -1,0 +1,4 @@
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/FourierHeartBeatWindows/build/CMakeFiles/FourierHeartBeatWindows.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/FourierHeartBeatWindows/build/CMakeFiles/INSTALL.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/FourierHeartBeatWindows/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/FourierHeartBeatWindows/build/CMakeFiles/ZERO_CHECK.dir
